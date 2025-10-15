@@ -118,14 +118,9 @@ Or launch the dashboard:
 
 streamlit run dashboard/app.py
 
-### 🧑‍💼 Contributors
-
-- Name	Role	Contact
-- 
-- Your Name	AI Developer	your.email@example.com
-
 🪪 License
 
 This project is licensed under the MIT License — free for research and commercial use with attribution.
 
 Linkedin = https://www.linkedin.com/in/manimegalai-yuvaraj-a40a092a0/
+Email = manimegalaiyuvaraj@gmail.com
