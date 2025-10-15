@@ -92,35 +92,5 @@ Integration	MQTT / REST API / WebSocket
 
 - 🛠 Machine produces defective part.
 
-###🚀 Future Enhancements
-
-Multi-camera synchronization.
-
-3D action recognition using pose estimation.
-
-Integration with Edge AI devices (e.g., Jetson Nano, Raspberry Pi).
-
-Automated root-cause analysis.
-
-Predictive maintenance using long-term sensor data.
-
-### 🧪 Installation
-
-git clone https://github.com/<your-username>/production-line-anomaly-detection.git
-cd production-line-anomaly-detection
-pip install -r requirements.txt
-
-### ▶ Run the Agent
-
-python src/anomaly_detector.py
-
-Or launch the dashboard:
-
-streamlit run dashboard/app.py
-
-🪪 License
-
-This project is licensed under the MIT License — free for research and commercial use with attribution.
-
 Linkedin = https://www.linkedin.com/in/manimegalai-yuvaraj-a40a092a0/
 Email = manimegalaiyuvaraj@gmail.com
